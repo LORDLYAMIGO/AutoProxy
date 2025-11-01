@@ -152,6 +152,13 @@ Actions:
 
 ---
 
+<img width="955" height="912" alt="TUI" src="https://github.com/user-attachments/assets/63ab35dd-2055-44f5-b25b-a600c87ad447" />
+<img width="955" height="912" alt="TUI" src="https://github.com/user-attachments/assets/e93a6ae1-1148-444e-8d79-ff25a9f046cf" />
+<img width="1305" height="610" alt="log" src="https://github.com/user-attachments/assets/22401dda-9745-44d3-968d-26c18ed250f4" />
+
+
+
+
 ## Interactive TUI
 
 The TUI offers:
